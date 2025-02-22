@@ -1,4 +1,4 @@
-Favorite devOps tool i like is AWS.
+Favorite devOps tool i like are Jerkins and Terraform.
 
 Gt commands learnt:
 git clone
